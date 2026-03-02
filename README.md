@@ -26,7 +26,7 @@ HausdorffK3-tree/
 ├── src/                    # Archivos de implementación (.cpp) de la biblioteca.
 ├── apps/                   # Aplicaciones ejecutables que usan la biblioteca.
 ├── tests/                  # Pruebas unitarias y de integración (usando Google Test).
-├── build/                  # Directorio (creado por ti) donde se guardan los archivos de compilación.
+├── build/                  # Directorio donde se guardan los archivos de compilación.
 └── CMakeLists.txt          # Archivo principal que orquesta la compilación de todo el proyecto.
 ```
 
