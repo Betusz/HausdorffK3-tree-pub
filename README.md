@@ -49,7 +49,7 @@ Primero, clona el repositorio y crea un directorio de compilación:
 ```bash
 # Clona este repositorio
 git clone <URL_DEL_REPOSITORIO>
-cd HausdorffK3-tree
+cd HausdorffK3-tree-pub
 
 # Configura el proyecto con CMake. Esto crea el directorio 'build' y descarga dependencias.
 cmake -B build
