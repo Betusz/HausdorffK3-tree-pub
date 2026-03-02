@@ -1,0 +1,35 @@
+# IDEs
+.idea/
+.vscode/
+
+# Build and Binaries
+build/
+bin/
+*.o
+*.a
+*.so
+*.out
+
+# Data and Logs
+data/
+*.xyz
+*.csv
+*.log
+
+# Backups and temporary files
+*.bak
+*~
+*.py
+
+# LaTeX (for Informe/)
+Informe/
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+# *.pdf # Uncomment if you want to ignore generated PDFs
+
+# OS files
+.DS_Store
+Thumbs.db
